@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(214, 209, 209);
+}
+.ToDoList{
+    margin: auto;
+    width: fit-content;
+    padding: 15px ;
+    background-color: white;
+    border: 1px rgb(165, 158, 158) solid;
+}
+.ToDoList .checkbox{
+    width: 20px;
+    height: 15px;
+}
+.li_ja{
+    background-color: rgb(214, 209, 209) ;
+    list-style: none;
+    margin-left: -37px;
+margin-bottom: 4px ;
+border: rgb(190, 179, 179) 1px solid;
+box-shadow: 2px 2px 2px gainsboro;
+}
+.box{
+   
+}
+.list2{
+text-decoration: line-through;
+}
